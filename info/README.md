@@ -11,6 +11,9 @@
 - ![Entorn virtual complet](https://informatica.uv.es/~carlos/docencia/netinvm/) - Secció descàrregues 2020
 - ![Link directe a la màquina virtual - ok 20200917](https://informatica.uv.es/~carlos/ns/netinvm/netinvm-kvm_2020-07-15_vmware.zip) - descomprimir el zip (triga prou) i importar la màquina virtual a VMware (preferent) o a VirtualBox (Mac People)
 
+### links git
+- [xuleta visual](https://ndpsoftware.com/git-cheatsheet.html)
+
 ### Clients de git
 - textual a linux sobre les màquines virtuals
 - gràfic a windows/mac/linux ![gitkraken](https://www.gitkraken.com/) 
