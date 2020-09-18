@@ -1,1 +1,1 @@
-DHCP i DNS
+# DHCP i DNS
