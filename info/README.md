@@ -15,9 +15,7 @@
 - [xuleta visual](https://ndpsoftware.com/git-cheatsheet.html)
 
 ### Clients de git
-- textual a linux sobre les màquines virtuals
 - gràfic a windows/mac/linux [gitkraken](https://www.gitkraken.com/) 
-- gràfic x Mac/Windows [github desktop](https://desktop.github.com/)
 ### Editors de text en interfície textual (imprescindible per servidors que no compten amb entorn gràfic)
 - Nano - va per menus, no cal massa més ajuda. Trist si te vols dedicar a l'àmbit informàtic
 - Vim - Editor molt potent. "punto". 
