@@ -13,6 +13,9 @@
 
 ### links git
 - [xuleta visual](https://ndpsoftware.com/git-cheatsheet.html)
+- [tutorial git atlassian](https://www.atlassian.com/git/tutorials)
+
+
 
 ### Clients de git
 - gràfic a windows/mac/linux [gitkraken](https://www.gitkraken.com/) 
