@@ -29,4 +29,7 @@ Partint del programari Hugo instal·lat (un únic executable), crea el teu curr�
 - afegir la teva foto al lloc indicat (pista: mira en el fitxer de configuració, quin és el fitxer al que fa referència) per tal que aparegui (en una rodona) la teva foto.
 
 
- 
+# sessió 05 - Primer servidor web: Nginx
+
+El resum de la sessió està a [resum sessió 05](https://hackmd.io/@joaniznardo/ryddNTurv) 
+
