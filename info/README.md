@@ -15,12 +15,17 @@
 - [xuleta visual](https://ndpsoftware.com/git-cheatsheet.html)
 - [tutorial git atlassian](https://www.atlassian.com/git/tutorials)
 
-
-
 ### Clients de git
 - gràfic a windows/mac/linux [gitkraken](https://www.gitkraken.com/) 
 ### Editors de text en interfície textual (imprescindible per servidors que no compten amb entorn gràfic)
 - Nano - va per menus, no cal massa més ajuda. Trist si te vols dedicar a l'àmbit informàtic
 - Vim - Editor molt potent. "punto". 
+
+### Webs útils sysadmin
+- [server world - recull de xuletes](https://www.server-world.info/en/)
+- [certdepot - altre recull (rhel i variants)](https://www.certdepot.net/)
+
+### web server
+- [recordatori dels codis http](https://http.cat/)
 
 
