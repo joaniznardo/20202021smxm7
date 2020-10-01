@@ -3,6 +3,7 @@
 ## Programari necessari
 ### Entorn de virtualització
 - [vmware player](https://www.vmware.com/products/workstation-player.html) Mirar la secció de descàrregues per Linux/Windows
+- [vmware player 16 - linux - directa - ok a 20201001](https://download3.vmware.com/software/player/file/VMware-Player-16.0.0-16894299.x86_64.bundle)
 - [vmware player 16 - ok a 20200917](https://my.vmware.com/en/web/vmware/downloads/details?downloadGroup=PLAYER-1600&productId=1039&rPId=51984)
 - [VirtualBox - descàrregues](https://www.virtualbox.org/wiki/Downloads) - Cal mirar la secció de Mac
 - [virtualBox - Mac People - ok a 20200917](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg)
@@ -28,4 +29,11 @@
 ### web server
 - [recordatori dels codis http](https://http.cat/)
 
+### vim editor
+- [tutorial interactiu 1](https://www.openvim.com/)
+- [tutorial interactiu 2](http://www.vimgenius.com/)
+- [xuleta vim online](https://vim.rtorr.com/lang/es_es)
+- [xuleta vim online alternativa](https://devhints.io/vim)
+- [xuleta vim pdf - senzilla](http://web.mit.edu/merolish/Public/vi-ref.pdf)
+- [xuleta vim pdf](https://phoenixnap.com/kb/wp-content/uploads/2020/07/Vim-Commands-Cheat-Sheet.pdf)
 
