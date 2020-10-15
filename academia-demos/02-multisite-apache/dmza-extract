@@ -1,0 +1,5 @@
+/etc/apache2/sites-available/
+/etc/apache2/sites-enabled/
+/etc/apache2/apache2.conf
+/var/www/online/
+/var/www/bcn/
