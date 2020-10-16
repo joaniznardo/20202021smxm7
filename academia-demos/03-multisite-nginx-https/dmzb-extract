@@ -1,0 +1,10 @@
+/etc/nginx/conf.d/
+/etc/nginx/nginx.conf
+/etc/nginx/sites-available/
+/etc/nginx/sites-enabled/
+/etc/nginx/snippets/
+/etc/ssl/certs/
+/etc/ssl/private/
+
+/usr/share/nginx/html/online/
+/usr/share/nginx/html/barcelona/
