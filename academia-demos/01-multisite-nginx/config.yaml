@@ -1,0 +1,135 @@
+baseURL: http://bcn.surfacad.edu
+#languageCode: en-us
+languageCode: ca-ES
+title: surfacad
+theme: hugo-fresh
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy 
+  description: 
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/fresh.svg
+    link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: barcelona
+    # Hero subtitle (optional)
+    subtitle: Formació Innovadora - Pau flipa
+    # Button text
+    buttontext: Comença ara!
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Cursos
+    url: /
+  - title: Preu
+    url: /
+  - title: Horaris
+    sublinks:
+    - title: Horari Matí
+      url: /
+    - title: Horari Tarda
+      url: /
+    - title: Horari cap de setmana
+      url: /
+  - title: Inicia
+    url: /
+  - title: Registra't
+    url: /
+    button: true
+  section1:
+    title: La millor formació
+    subtitle: ...amb la millor gent
+    tiles:
+    - title: Ofimàtica
+      icon: laptop-cloud
+      text: Pep-Powered
+      url: /
+      buttonText: Inici Octubre
+    - title: Surf
+      icon: mouse-globe
+      text: Joan-Powered
+      url: /
+      buttonText: Amb cada ona
+    - title: Serveis de Xarxa
+      icon: plug-cloud
+      text: Vitaminitza els teus servidors
+      url: /
+      buttonText: Multientorn
+#  section5: true
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
+    bulmalogo: true
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Our roadmap
+          link: /
+        - text: AGB
+          link: /agb
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /
+        - text: User guides
+          link: /
+        - text: Admin guide
+          link: /
+        - text: Developers
+          link: /
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/first
+        - text: Tech articles
+          link: /blog/second

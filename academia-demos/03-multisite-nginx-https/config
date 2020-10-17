@@ -1,0 +1,17 @@
+########
+## ~/.ssh/config
+#######
+## - la manera més ràpida de connectar-se a les vm's 
+## nota1: els permissos han de ser  600
+## nota2: les ips i els comptes estàn "harcoded": atents/es als canvis ;)
+
+# bastion host
+Host vmbase
+  Hostname 172.16.169.128
+  User user1
+
+# Remote host
+Host vmdmzb
+  Hostname 10.5.1.11
+  User user1
+  ProxyJump vmbase
