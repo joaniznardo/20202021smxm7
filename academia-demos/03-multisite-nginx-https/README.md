@@ -19,8 +19,11 @@ Propostes de evolució/millora:
 - resolució de noms local amb noms de domini locals
 
 # Referències
+- [nginx official](https://docs.nginx.com/nginx/admin-guide/web-server/web-server/)
+- [nginx samples](https://www.nginx.com/resources/wiki/)
 - [cas pràctic](https://www.techrepublic.com/article/how-to-enable-ssl-on-nginx/)
 - [documentació nginx](https://docs.nginx.com/nginx/admin-guide/security-controls/terminating-ssl-http/#setting-up-an-https-server)
 - [nginx hack - site enabler](https://github.com/ajsalkeld/nginx-modsite/releases)
 - [traefik.me](https://traefik.me)
 - [generació automàtica certificats autosignats](https://lukas.zapletalovi.com/2019/09/testing-tls-ca-server-and-client-certs.html)
+- [bastion host explained](https://www.redhat.com/sysadmin/ssh-proxy-bastion-proxyjump)
