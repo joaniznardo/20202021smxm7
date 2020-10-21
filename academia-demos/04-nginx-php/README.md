@@ -17,15 +17,16 @@ Aquesta demo parteix de:
 - compte user1 a dmzc com a sudoer
 
 
-Caldrà fer després (via ssh: ssh vmdmzc 'ordre')   
+Caldrà fer després (via ssh: ssh vmdmzc 'ordre') 
+
  ssh -t vmdmzc 'echo "user1 ALL= NOPASSWD:/usr/bin/rsync" | sudo tee /etc/sudoers.d/01-user1-rsync'
- ssh -t vmdmzc 'sudo apt update ; sudo apt install -y nginx php-fpm'
- ssh -t vmdmzc 'sudo rm /etc/nginx/sites-enabled/default'
- ssh -t vmdmzc 'mkdir -p  /usr/share/nginx/html/online'
- ssh -t vmdmzc 'sudo touch /usr/share/nginx/html/online/contact_data.csv
+ ssh -t vmdmzc 'sudo apt update ; sudo apt install -y nginx php-fpm' 
+ ssh -t vmdmzc 'sudo rm /etc/nginx/sites-enabled/default' 
+ ssh -t vmdmzc 'mkdir -p  /usr/share/nginx/html/online' 
+ ssh -t vmdmzc 'sudo touch /usr/share/nginx/html/online/contact_data.csv 
  make up 
- ssh -t vmdmzc 'sudo chown www-data: /usr/share/nginx/html/online/contact_data.csv
- ssh -t vmdmzc 'sudo systemcl restart nginx'
+ ssh -t vmdmzc 'sudo chown www-data: /usr/share/nginx/html/online/contact_data.csv 
+ ssh -t vmdmzc 'sudo systemcl restart nginx' 
  
 
 # Referències
