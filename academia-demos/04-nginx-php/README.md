@@ -13,7 +13,7 @@ NOTA PRÈVIA: la demo, per simplificar el procés, genera una llista de contacte
 
 Aquesta demo parteix de:
 - clau pública del compte de la màquina física a user1@base
-- clau pública del compte de la màquina física a user1@dmzc
+- clau pública del compte de la màquina física a user1@dmzc (ssh-copy-id -o "ProxyJump user1@ip_base" user1@ip_destí)
 - compte user1 a dmzc com a sudoer
 
 
