@@ -22,10 +22,10 @@ Caldrà fer després (via ssh: ssh vmdmzc 'ordre')
 ssh -t vmdmzc 'echo "user1 ALL= NOPASSWD:/usr/bin/rsync" | sudo tee /etc/sudoers.d/01-user1-rsync'  
 ssh -t vmdmzc 'sudo apt update ; sudo apt install -y nginx php-fpm'  
 ssh -t vmdmzc 'sudo rm /etc/nginx/sites-enabled/default'  
-ssh -t vmdmzc 'mkdir -p  /usr/share/nginx/html/online'  
-ssh -t vmdmzc 'sudo touch /usr/share/nginx/html/online/contact_data.csv  
+ssh -t vmdmzc 'sudo mkdir -p  /usr/share/nginx/html/online'  
+ssh -t vmdmzc 'sudo touch /usr/share/nginx/html/online/contact_data.csv'  
 make up  
-ssh -t vmdmzc 'sudo chown www-data: /usr/share/nginx/html/online/contact_data.csv  
+ssh -t vmdmzc 'sudo chown www-data: /usr/share/nginx/html/online/contact_data.csv'  
 ssh -t vmdmzc 'sudo systemcl restart nginx'  
 
  
@@ -34,7 +34,7 @@ ssh -t vmdmzc 'sudo systemcl restart nginx'
 - [LEMP a tecmint](https://www.tecmint.com/install-lemp-on-debian-10-server/)
 - [nginx official](https://docs.nginx.com/nginx/admin-guide/web-server/web-server/)
 - [nginx samples](https://www.nginx.com/resources/wiki/)
-- [cas pràctic](https://phpcoder.tech/wp-content/cache/all/save-contact-form-data-in-csv-file-using-php/index.html)º
+- [cas pràctic](https://phpcoder.tech/wp-content/cache/all/save-contact-form-data-in-csv-file-using-php/index.html)
 - [documentació nginx](https://docs.nginx.com/nginx/admin-guide/security-controls/terminating-ssl-http/#setting-up-an-https-server)
 - [nginx hack - site enabler](https://github.com/ajsalkeld/nginx-modsite/releases)
 - [traefik.me](https://traefik.me)
