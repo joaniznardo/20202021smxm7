@@ -19,6 +19,7 @@ Propostes de evolució/millora:
 - resolució de noms local amb noms de domini locals
 
 # Referències
+- [demo](https://drive.google.com/file/d/1mQwJ-er39CrCUSR29gKbMYb1Rh_TTWOT/view?usp=sharing)
 - [nginx official](https://docs.nginx.com/nginx/admin-guide/web-server/web-server/)
 - [nginx samples](https://www.nginx.com/resources/wiki/)
 - [cas pràctic](https://www.techrepublic.com/article/how-to-enable-ssl-on-nginx/)
