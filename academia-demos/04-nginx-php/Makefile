@@ -5,7 +5,7 @@ PROJECT := $(THISDIR)
 ##
 ##
 up: ## passa/sincronitza el directory dmzc amb la màquina virtual dmzc
-	rsync   -e "ssh  -J user1@172.16.169.128" --rsync-path="sudo  rsync" -azv   dmzc/ user1@10.5.1.12:/
+	rsync   -e "ssh  -J user1@192.168.27.128" --rsync-path="sudo  rsync" -azv   dmzc/ user1@10.5.1.12:/
 
 up_tunnel_edition: ## passa/sincronitza el directory dmzc amb la màquina virtual dmza
 	rsync   -e "ssh  -p 2288" --rsync-path="sudo  rsync" -azv   dmzc/ user1@localhost:/
