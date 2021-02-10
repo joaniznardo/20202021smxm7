@@ -23,11 +23,11 @@ Se us encarrega la instal·lació d'un servei de proxy per donar solució a aque
 3) Test
 4) Filtrat de webs | tipus de contingut
 5) caché de contingut http (isos|pdf)
-6) autenticació
+6) autenticació (simple | ldap (voluntària))
 
 
 ## Voluntària:
-7) implementar un proxy transparent a fw
+7) implementar un proxy transparent a fw  (Sols si s'ha fet totes les anteriors. Sols protocol http)  
 
 
 ## Avaluació:  
@@ -47,3 +47,5 @@ data límit per lliurament video: dj 18 de febrer 23:00.
 - puc accedir a les webs bloquejades per nom?  
 - hi ha millora en l'accés a continguts prèviament descarregats?  
 - puc saber qui ha visitat què?  
+- puc bloquejar a un ordinador d'una xarxa però no a la resta
+- puc bloquejar a un ordinador per MAC?
