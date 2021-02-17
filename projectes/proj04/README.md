@@ -36,6 +36,7 @@ Se us encarrega la instal·lació d'un servei de proxy per donar solució a aque
 
 ## Termini:  
 data límit per lliurament video: dj 18 de febrer 23:00.  
+link lliurament: [aquest](https://forms.gle/arhsjUDXgGnyujNw6)  
 
 [esquema](./squid.svg) 
 
