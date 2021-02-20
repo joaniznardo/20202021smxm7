@@ -20,11 +20,11 @@ Per proves (desenvolupament) recomane intd/inte. Per producció (real) recomane 
 Client web (firefox) i client d'escriptori [**thunderbird|geary|evolution**]
 
 
-**Termini**: data màxima > dijous 18 de març
-**lliurament**: quatre entrades, una per setmana a un blog personal (individual) de cada membre de l'equip amb el progrés realitzat (amb captures de pantalla, clar) a elteucompte.github.io. 
-**Exemple**: joaniznardo.github.io. Dates de revisió del blog: dimarts 2/9/16/23 de març. El 23 de febrer heu de tindre la 1era entrada: planificació, és a dir, de què va el projecte i que veurem en les properes 4 entrades. 
+**Termini**: data màxima > dijous 18 de març  
+**lliurament**: quatre entrades, una per setmana a un blog personal (individual) de cada membre de l'equip amb el progrés realitzat (amb captures de pantalla, clar) a elteucompte.github.io.  
+**Exemple**: joaniznardo.github.io. Dates de revisió del blog: dimarts 2/9/16/23 de març. El 23 de febrer heu de tindre la 1era entrada: planificació, és a dir, de què va el projecte i que veurem en les properes 4 entrades.  
 
-**NOTA IMPORTANT**: les revisions les faré dimarts, per tant hauran d'estar preparades dilluns fins les 23:55.
+**NOTA IMPORTANT**: les revisions les faré dimarts, per tant hauran d'estar preparades dilluns fins les 23:55.  
 
 ## Avaluació: 
 - blog: 5 punts (criteris: senzillesa, concreció, planificació)
