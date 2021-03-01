@@ -27,7 +27,8 @@ Client web (firefox) i client d'escriptori [**thunderbird|geary|evolution**]
 **NOTA IMPORTANT**: les revisions les faré dimarts, per tant hauran d'estar preparades dilluns fins les 23:55.  
 
 ## Avaluació: 
-- blog: 5 punts (criteris: senzillesa, concreció, planificació)
+- blog: 5 punts (criteris: senzillesa, concreció, planificació)  
+  -- [link](https://forms.gle/1rAkzzchV7LSQ1wf6)
 - demo dx 17 de març: 5 punts (petició per part del client que us ha contractat de diverses proves per demostrar que el vostre servei és usable)
 
 
