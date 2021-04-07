@@ -6,11 +6,15 @@
 -- ssh passwordless a totes les int  
 
 # administració remota  
-- apache a intc via cockpit  
-- proftpd a intd via webmin  
+- apache (configuració d'una web) a intc via cockpit  
+- proftpd (configuració d'un directori per penjar fitxers) a intd via webmin  
 
 # avaluació: 
-- videodemo (screencast) individual explicativa
+- videodemo (screencast) individual explicativa de totes les parts (recomanat OBS)  
+-- què s'ha instal·lat  
+-- com se configura  
+-- com s'accedeix  
+-- ports implicats...  
 - durada màx 3 min
 - compartit al drive (apareixerà en breu un formulari aquí)
 
