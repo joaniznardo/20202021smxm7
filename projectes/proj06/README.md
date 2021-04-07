@@ -1,7 +1,9 @@
 # Accés remot (microprojecte)  
-- entorn gràfic  
+- entorn gràfic (servers - inta i intb )    
 -- vnc / novnc  
 -- rdp  
+- entorn gràfic (client - recomane a base)    
+-- remmina
 - entorn textual   
 -- ssh passwordless a totes les int  
 
