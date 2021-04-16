@@ -1,7 +1,7 @@
 # Accés remot (microprojecte)  
 - entorn gràfic (servers - inta i intb )    
 -- vnc / novnc  
--- rdp  
+-- rdp (EXCEPCIÓ: sobre un ubuntu destop 20.04) 
 - entorn gràfic (client - recomane a base)    
 -- remmina
 - entorn textual   
