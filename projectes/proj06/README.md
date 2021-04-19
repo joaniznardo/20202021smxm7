@@ -18,5 +18,5 @@
 -- com s'accedeix  
 -- ports implicats...  
 - durada màx 3 min
-- compartit al drive (apareixerà en breu un formulari aquí)
+- compartit al drive (apareixerà en breu un formulari aquí): [ja ha aparegut](https://forms.gle/QecYrzgWT2F8YVW8A)
 
